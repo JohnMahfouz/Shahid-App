@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gam3a\\Year 3 cs\\Second Term\\Software\\tesst\\WindowsFormsApp4\\WindowsFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C841CF-DAC5-47F2-A59B-CA4ED49EA436}|WindowsFormsApp4\\WindowsFormsApp4.csproj|d:\\gam3a\\year 3 cs\\second term\\software\\tesst\\windowsformsapp4\\windowsformsapp4\\windowsformsapp4\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C841CF-DAC5-47F2-A59B-CA4ED49EA436}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C841CF-DAC5-47F2-A59B-CA4ED49EA436}|WindowsFormsApp4\\WindowsFormsApp4.csproj|D:\\Gam3a\\Year 3 cs\\Second Term\\Software\\tesst\\WindowsFormsApp4\\WindowsFormsApp4\\windowsformsapp4\\disconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C841CF-DAC5-47F2-A59B-CA4ED49EA436}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\disconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C841CF-DAC5-47F2-A59B-CA4ED49EA436}|WindowsFormsApp4\\WindowsFormsApp4.csproj|D:\\Gam3a\\Year 3 cs\\Second Term\\Software\\tesst\\WindowsFormsApp4\\WindowsFormsApp4\\windowsformsapp4\\disconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C841CF-DAC5-47F2-A59B-CA4ED49EA436}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\disconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Gam3a\\Year 3 cs\\Second Term\\Software\\tesst\\WindowsFormsApp4\\WindowsFormsApp4\\WindowsFormsApp4\\MainMenu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\MainMenu.cs",
+              "ToolTip": "D:\\Gam3a\\Year 3 cs\\Second Term\\Software\\tesst\\WindowsFormsApp4\\WindowsFormsApp4\\WindowsFormsApp4\\MainMenu.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:25:29.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Disconnected.cs",
+              "DocumentMoniker": "D:\\Gam3a\\Year 3 cs\\Second Term\\Software\\tesst\\WindowsFormsApp4\\WindowsFormsApp4\\WindowsFormsApp4\\Disconnected.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Disconnected.cs",
+              "ToolTip": "D:\\Gam3a\\Year 3 cs\\Second Term\\Software\\tesst\\WindowsFormsApp4\\WindowsFormsApp4\\WindowsFormsApp4\\Disconnected.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Disconnected.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:23:07.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Disconnected.cs [Design]",
+              "DocumentMoniker": "D:\\Gam3a\\Year 3 cs\\Second Term\\Software\\tesst\\WindowsFormsApp4\\WindowsFormsApp4\\WindowsFormsApp4\\Disconnected.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Disconnected.cs",
+              "ToolTip": "D:\\Gam3a\\Year 3 cs\\Second Term\\Software\\tesst\\WindowsFormsApp4\\WindowsFormsApp4\\WindowsFormsApp4\\Disconnected.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp4\\Disconnected.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:22:52.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
