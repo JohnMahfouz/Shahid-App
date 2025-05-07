@@ -7,7 +7,7 @@ Shahid App is a Windows Forms-based media streaming platform developed using the
 - C# (.NET Framework)
 - Windows Forms (WinForms)
 - Crystal Reports
-- Microsoft SQL Server
+- Oracle Database
 - Visual Studio
 
 ## ✨ Key Features
